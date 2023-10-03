@@ -1,0 +1,8 @@
+.btn-indigo {
+  background-color: #5d00ff !important;
+}
+
+.btn-indigo:hover,
+.btn-indigo:active {
+  background-color: #4100b3 !important;
+}
