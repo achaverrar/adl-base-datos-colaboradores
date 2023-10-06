@@ -28,7 +28,7 @@ function App() {
       style={{ maxWidth: "71rem" }}
     >
       <h1 className="fw-semibold">Lista de colaboradores</h1>
-      <Buscador searchQuery={searchQuery} setSearchQuery={setSearchQuery} />
+      <Buscador searchQuery={searchQuery} setSearchQuery={setSearchQuery}/>
       <div className="d-flex flex-wrap align-items-start gap-3 justify-content-between">
         <Listado
           collaborators={collaborators.filter((collaborator) =>
