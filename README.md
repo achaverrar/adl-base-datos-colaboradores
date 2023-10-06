@@ -9,5 +9,9 @@
 Forkeé y envié pull requests a los repositorios de los siguientes compañeros:
 
 - [Javier Figueroa](https://github.com/javiernfigueroa/Desafio-react-3)
+- [Pedro Salinas](https://github.com/pesalinassilva/Base-Colaboradores)
 
 Recibí y acepté las pull requests de los siguientes compañeros:
+
+- [Javier Figueroa](https://github.com/javiernfigueroa/Desafio-react-3)
+- [Pedro Salinas](https://github.com/pesalinassilva/Base-Colaboradores)
